@@ -6,7 +6,7 @@ Software Engineer
 
 Software Engineer blending code elegance with DevOps finesse. With a cool demeanor and a knack for seamless integration, I craft digital symphonies, leaving a mark where development meets operations.
 
-*   🌍  I'm based in Casablanca
+*   🌍  I'm based in Toulouse, France.
 *   ✉️  You can contact me at [zakaria.hachm20@gmail.com](mailto:zakaria.hachm20@gmail.com)
   ### Skills 
   
