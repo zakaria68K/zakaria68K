@@ -4,9 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Software Engineer blending code elegance with DevOps finesse. With a cool demeanor and a knack for seamless integration, I craft digital symphonies, leaving a mark where development meets operations.
-
-*   🌍  I'm based in Toulouse, France.
+PhD student specializing in Large Language Models (LLMs) and Model-Driven Engineering (MDE), blending code elegance with advanced research. With a calm demeanor and a knack for seamless integration, I craft digital solutions at the intersection of cutting-edge research and practical applications, leaving a mark where theoretical innovation meets engineering precision.
+*   🌍  I'm based in Nantes, France.
 *   ✉️  You can contact me at [zakaria.hachm20@gmail.com](mailto:zakaria.hachm20@gmail.com)
   ### Skills 
   
