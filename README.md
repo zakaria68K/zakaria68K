@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zakaria Hachm
 =====================================================================================================================================
 
-Software Engineer
+PhD student & Software Engineer
 -----------------
 
 PhD student specializing in Large Language Models (LLMs) and Model-Driven Engineering (MDE), blending code elegance with advanced research. With a calm demeanor and a knack for seamless integration, I craft digital solutions at the intersection of cutting-edge research and practical applications, leaving a mark where theoretical innovation meets engineering precision.
